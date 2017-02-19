@@ -1,5 +1,5 @@
 # Shushrut
-Shushrut is a multi-purpose application, which aims at providing the best health carefacilities to its users, free of cost. It is an attempt to integrate 3 widely different, but equally important areas of health care, namely:
+Shushrut is a multi-purpose application, which aims to provide best healthcare facilities to its users, free of cost. It is an attempt to integrate 3 widely different, but equally important areas of health care, namely:
 
 1. Automation in identification of a patient’s disease, without consulting a doctor directly.
 
